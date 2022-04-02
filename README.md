@@ -4,8 +4,6 @@ Lets say, we have to do some action for every item added to DynamoDB. We can use
 
 ![dynamodb-streams-processor](images/miztiik-dynamo-stream-processor.png)
 
-#### Follow this article in [Youtube](https://youtube.com/c/valaxytechnologies)
-
 0. ### Prerequisites
 
 - AWS CLI pre-configured
